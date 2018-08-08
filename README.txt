@@ -11,4 +11,6 @@ The ESP-12F/8266 is an excellent choice as it is compact and has minimal power u
 Libraries needed:
 arduino-libraries/NTPClient
 esp8266/Arduino
-grzesl/ESPMail
+
+TODO: 
+Email notifications
